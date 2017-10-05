@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyClassLab</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="ex1">Ex1</string>
+    <string name="ex2">Ex2</string>
+    <string name="ex3">Ex3</string>
+    <string name="ex4">Ex4</string>
+    <string name="ex5">Ex5</string>
+    <string name="ex6">Ex6</string>
+    <string name="ex7">Ex7</string>
+    <string name="ex8">Ex8</string>
+    <string name="Main">Main menu</string>
+    <string name="title_activity_main">Lab Notebook</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

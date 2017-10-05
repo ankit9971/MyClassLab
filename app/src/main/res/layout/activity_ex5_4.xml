@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ankit.myclasslab.Ex5_4">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="188px"
+        android:layout_height="wrap_content"
+        android:layout_x="59dp"
+        android:layout_y="462dp"
+        android:onClick="onClick"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button1"
+
+        android:layout_width="113px"
+        android:layout_height="wrap_content"
+
+        android:layout_x="2dp"
+        android:layout_y="462dp"
+        android:text="Button" />
+
+
+</AbsoluteLayout>
